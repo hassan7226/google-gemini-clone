@@ -10,7 +10,7 @@
 
 // Use the Lite model for the best free tier performance in late 2025
 const MODEL_NAME = "gemini-2.5-flash-lite"; 
-const API_KEY = "AIzaSyDGIw32RZbxFja8qObU5VXVX6DuAlyPth0";
+const API_KEY = "AIzaSyCnKCFnmBpb2OsVOrcSuduytwWt9HWXT3c";
 
 async function run(prompt) {
     const genAI = new GoogleGenerativeAI(API_KEY);
