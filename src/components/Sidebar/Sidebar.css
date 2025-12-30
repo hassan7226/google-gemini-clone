@@ -104,15 +104,19 @@
     .sidebar {
         /* When closed, only show the menu icon area */
         position: absolute;
-        z-index: 10;
         min-height: auto;
-        height: 60px; /* Only tall enough for the menu icon */
-        width: 60px;  /* Only wide enough for the menu icon */
-        padding: 15px;
+
+        padding: 10px;
         transition: 0.3s;
         overflow: hidden;
+        border-radius: 10px;
+        background-color: transparent;
     }
 
+    .top{
+        display: flex;
+        justify-content: center;
+    }
     /* Hide everything inside except the menu icon when closed */
     .sidebar .new-chat,
     .sidebar .recent,
