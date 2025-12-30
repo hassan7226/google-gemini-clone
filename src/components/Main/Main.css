@@ -190,4 +190,7 @@ border: none;
         bottom: 0%;
         position: fixed;
     }
+    .bottom-info{
+        display: none;
+    }
 }
