@@ -176,8 +176,7 @@ border: none;
         width: 20px;
     }
     .cards {
-        flex-direction: column;
-        align-items: center;
+       display: none;
     }
     .search-box   {
         padding: 5px 10px;
