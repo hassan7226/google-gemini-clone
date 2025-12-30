@@ -95,7 +95,48 @@
     100% { opacity: 1; }
 } 
 
-@media(max-width: 600px) {
+/* @media(max-width: 600px) {
     .sidebar { display: none; }
     
+} */
+
+@media (max-width: 600px) {
+    .sidebar {
+        /* When closed, only show the menu icon area */
+        position: absolute;
+        z-index: 10;
+        min-height: auto;
+        height: 60px; /* Only tall enough for the menu icon */
+        width: 60px;  /* Only wide enough for the menu icon */
+        padding: 15px;
+        transition: 0.3s;
+        overflow: hidden;
+    }
+
+    /* Hide everything inside except the menu icon when closed */
+    .sidebar .new-chat,
+    .sidebar .recent,
+    .sidebar .bottom {
+        display: none;
+    }
+
+    /* When the icon is clicked (mobile-open class added) */
+    .sidebar.mobile-open {
+        width: 250px;
+        height: 100vh;
+        background-color: #f0f4f9;
+        display: flex; /* Show the contents again */
+    }
+
+    .sidebar.mobile-open .new-chat,
+    .sidebar.mobile-open .recent,
+    .sidebar.mobile-open .bottom {
+        display: flex;
+        animation: fadeIn 0.5s;
+    }
+
+    /* Ensure the main content doesn't get pushed weirdly */
+    .main {
+        padding-left: 0; 
+    }
 }

@@ -13,7 +13,8 @@ const Sidebar = () => {
   };
 
   return (
-    <div className="sidebar">
+    //<div className="sidebar">
+    <div className={`sidebar ${extended ? "mobile-open" : ""}`}>
       <div className="top">
         <img
           onClick={() => setExtended((prev) => !prev)}
