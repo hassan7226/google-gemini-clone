@@ -129,8 +129,7 @@
     }
 
     .sidebar.mobile-open .new-chat,
-    .sidebar.mobile-open .recent,
-    .sidebar.mobile-open .bottom {
+    .sidebar.mobile-open .recent{
         display: flex;
         animation: fadeIn 0.5s;
     }
