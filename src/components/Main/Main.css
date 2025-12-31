@@ -173,7 +173,8 @@ border: none;
         width: 150px;
     }
     .nav{
-        margin: 10px 20px;
+        display: flex;
+        justify-content:space-around;
     }
     .main-bottom img {
         width: 20px;
