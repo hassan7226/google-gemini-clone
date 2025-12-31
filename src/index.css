@@ -8,7 +8,6 @@
 .app{
   min-height: 100vh;
   display: flex;
-  overflow: hidden;
   animation : fadeIn 1s;
 
 }

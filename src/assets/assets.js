@@ -15,6 +15,7 @@ import send_icon from './send_icon.png'
 import gemini_icon from './gemini_icon.png'
 import trash_can from './trash_can.png'
 import trash from './trash.png'
+import my_pic from './my_pic.png'
 
 export const assets = {
     history_icon,
@@ -34,4 +35,5 @@ export const assets = {
     gemini_icon,
     trash_can,
     trash,
+    my_pic,
 }
