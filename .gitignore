@@ -1,3 +1,5 @@
+
+.env
 # Logs
 logs
 *.log
@@ -23,10 +25,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Local env files
-.env
-.env.local
-
-# Dependencies
-node_modules
-dist
