@@ -111,6 +111,10 @@
         overflow: hidden;
         border-radius: 10px;
         background-color: transparent;
+        margin-top: 30px;
+    }
+    .top img{
+        width: 25px;
     }
 
     /* Hide everything inside except the menu icon when closed */

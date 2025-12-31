@@ -172,6 +172,9 @@ border: none;
         flex: none;
         width: 150px;
     }
+    .nav{
+        margin: 10px 20px;
+    }
     .main-bottom img {
         width: 20px;
     }
