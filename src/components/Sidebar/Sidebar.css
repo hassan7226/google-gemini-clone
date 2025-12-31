@@ -101,13 +101,13 @@
         /* When closed, only show the menu icon area */
         position: absolute;
         z-index: 10;
-        min-height: auto;
+        min-height: 100vh;
         padding: 10px;
         transition: 0.3s;
         overflow: hidden;
         border-radius: 10px;
         background-color: transparent;
-        margin-top: 30px;
+        padding-top: 30px;
     }
     .top img{
         width: 25px;
