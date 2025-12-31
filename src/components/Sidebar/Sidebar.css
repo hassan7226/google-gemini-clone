@@ -70,13 +70,9 @@
     height: 25px !important;
     padding: 5px;
     border-radius: 50%;
-    opacity: 0; /* Starts hidden */
 }
 
-/* Show it on hover */
-.sidebar .recent-entry:hover .delete-icon {
-    opacity: 1;
-}
+
 
 
 .sidebar .bottom {
