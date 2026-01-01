@@ -5,32 +5,23 @@ This project focuses on UI/UX, API integration concepts, and modern deployment p
 
 🚀 Live Demo
 
-🔗 Live App: [your live link here]
+🔗 Live App: https://google-gemini-clone-jade.vercel.app/
 
 🛠️ Tech Stack
 
 HTML5
-
 CSS3
-
 JavaScript
-
 Google Gemini API
-
 Vercel (Deployment)
 
 ✨ Features
 
 🤖 AI-powered chat interface (Gemini-inspired UI)
-
 ⚡ Fast and responsive design
-
 📱 Mobile-friendly layout
-
 ☁️ Deployed on Vercel
-
 🎯 Frontend-only implementation
-
 
 📸 Screenshots
 
