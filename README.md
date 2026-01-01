@@ -1,16 +1,46 @@
-# React + Vite
+📌 Google Gemini Clone (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Google Gemini–inspired AI chat application built as a frontend project and deployed on Vercel.
+This project focuses on UI/UX, API integration concepts, and modern deployment practices.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live App: [your live link here]
 
-## React Compiler
+🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+HTML5
+CSS3
+JavaScript
+Google Gemini API
+Vercel (Deployment)
 
-## Expanding the ESLint configuration
+✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🤖 AI-powered chat interface (Gemini-inspired UI)
+⚡ Fast and responsive design
+📱 Mobile-friendly layout
+☁️ Deployed on Vercel
+🎯 Frontend-only implementation
+
+📸 Screenshots
+
+<img width="959" height="539" alt="Screenshot 2026-01-01 114950" src="https://github.com/user-attachments/assets/30938c3a-4bdb-4f56-ad62-78c1f053bd71" />
+<img width="959" height="539" alt="Screenshot 2026-01-01 115132" src="https://github.com/user-attachments/assets/26cc2003-845e-4c50-9562-9dd2e5200d81" />
+
+🧠 What I Learned
+
+How AI APIs work (Gemini)
+Frontend API integration challenges
+Importance of API key security
+Deploying frontend apps on Vercel
+Improving UI/UX for chat applications
+
+📬 Contact
+👤 Hassan Arshad
+💼 Frontend Developer
+🔗 LinkedIn: https://www.linkedin.com/in/hassan-arshad-6a69432b6/
+Portfolio: https://mirzahassan.great-site.net/
+
+⭐ If you like this project, don’t forget to star the repo!
+
