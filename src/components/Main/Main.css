@@ -72,6 +72,8 @@ cursor: pointer;
     max-width: 900px;
     padding: 0px 20px;
     margin-top: 40px;
+    bottom: 0%;
+    position: fixed;
 }
 .search-box{
     display: flex;
