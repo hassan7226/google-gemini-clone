@@ -10,18 +10,27 @@ This project focuses on UI/UX, API integration concepts, and modern deployment p
 🛠️ Tech Stack
 
 HTML5
+
 CSS3
+
 JavaScript
+
 Google Gemini API
+
 Vercel (Deployment)
 
 ✨ Features
 
 🤖 AI-powered chat interface (Gemini-inspired UI)
+
 ⚡ Fast and responsive design
+
 📱 Mobile-friendly layout
+
 ☁️ Deployed on Vercel
+
 🎯 Frontend-only implementation
+
 
 📸 Screenshots
 
@@ -37,9 +46,13 @@ Deploying frontend apps on Vercel
 Improving UI/UX for chat applications
 
 📬 Contact
+
 👤 Hassan Arshad
+
 💼 Frontend Developer
+
 🔗 LinkedIn: https://www.linkedin.com/in/hassan-arshad-6a69432b6/
+
 Portfolio: https://mirzahassan.great-site.net/
 
 ⭐ If you like this project, don’t forget to star the repo!
